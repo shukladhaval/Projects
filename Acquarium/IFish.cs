@@ -11,5 +11,6 @@ namespace Acquarium
         string Name { get; set; }
         string Type { get; set; }
         double FoodRequire { get; set; }
+	string Color { get;set; }
     }
 }

@@ -6,6 +6,7 @@ namespace Acquarium
         string _name;
         string _type;
         double _foodRequire;
+        string _color;
 
         public string Name
         {
@@ -41,6 +42,11 @@ namespace Acquarium
             {
                 _foodRequire = value;
             }
+        }
+        public string Color
+        {
+            get { return _color; }
+            set { _color = value; }
         }
     }
 }
