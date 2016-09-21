@@ -1,0 +1,12 @@
+D:\Afzal.Qureshi\My Projects\CryptoKeysProtector\CryptoKeysProtector\bin\Debug\CryptoKeysProtector.exe.config
+D:\Afzal.Qureshi\My Projects\CryptoKeysProtector\CryptoKeysProtector\obj\Debug\CryptoKeysProtector.csprojResolveAssemblyReference.cache
+D:\Afzal.Qureshi\My Projects\CryptoKeysProtector\CryptoKeysProtector\bin\Debug\CryptoKeysProtector.exe
+D:\Afzal.Qureshi\My Projects\CryptoKeysProtector\CryptoKeysProtector\bin\Debug\CryptoKeysProtector.pdb
+D:\Afzal.Qureshi\My Projects\CryptoKeysProtector\CryptoKeysProtector\obj\Debug\CryptoKeysProtector.exe
+D:\Afzal.Qureshi\My Projects\CryptoKeysProtector\CryptoKeysProtector\obj\Debug\CryptoKeysProtector.pdb
+D:\Code Backup\CryptoKeysProtector\CryptoKeysProtector\bin\Debug\CryptoKeysProtector.exe.config
+D:\Code Backup\CryptoKeysProtector\CryptoKeysProtector\obj\Debug\CryptoKeysProtector.exe
+D:\Code Backup\CryptoKeysProtector\CryptoKeysProtector\obj\Debug\CryptoKeysProtector.pdb
+D:\Code Backup\CryptoKeysProtector\CryptoKeysProtector\bin\Debug\CryptoKeysProtector.exe
+D:\Code Backup\CryptoKeysProtector\CryptoKeysProtector\bin\Debug\CryptoKeysProtector.pdb
+D:\Code Backup\CryptoKeysProtector\CryptoKeysProtector\obj\Debug\CryptoKeysProtector.csprojResolveAssemblyReference.cache
